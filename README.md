@@ -1,2 +1,1 @@
 # ResFName-script
-d
